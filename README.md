@@ -1,4 +1,4 @@
-# Review-Mark-Classifier
+# Review Mark Classifier
 This work is aimed at creating baseline models and drawing up a benchmark.
 ***
 Metrics of the dataset's undersample models (embedded LaBASE (en)).
