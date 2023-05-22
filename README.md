@@ -1,6 +1,7 @@
 # Review-Classifier
 This work is aimed at creating baseline models and drawing up a benchmark.
 | Модель | Best F1 | Precision | Recall | train F1 | Precision | Recall | diff F1 |
+| ------ | ------- | --------- | ------ | -------- | --------- | ------ | ------- |
 | ReLU1 | 0.478 | 0.44 | 0.44 | 0.44 | 0.42 | 0.397 | 0.394 |
 | ReLU2 | 0.492 | 0.44 | 0.44 | 0.44 | 0.414 | 0.384 | 0.383 |
 | ReLU3 | 0.48 | 0.44 | 0.44 | 0.44 | 0.419 | 0.394 | 0.393 |
